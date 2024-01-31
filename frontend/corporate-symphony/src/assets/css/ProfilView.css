@@ -1,0 +1,39 @@
+/* ProfileView.css */
+.profile-view-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .profile-view-container h2 {
+    text-align: center;
+  }
+  
+  .profile-view-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .profile-view-container input,
+  .profile-view-container textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .profile-view-container button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .profile-view-container button:hover {
+    background-color: #45a049;
+  }
+  
