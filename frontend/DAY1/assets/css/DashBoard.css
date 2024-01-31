@@ -1,0 +1,21 @@
+.main-menu {
+    background: rgb(91, 91, 238);
+    width: 20%;
+    color: white;
+    height: 88vh;
+    overflow-y: hidden;
+    padding: 20px;
+  }
+
+  .side-links li 
+  {
+    margin: 15px 0;
+  }
+
+  .side-links {
+    display: flex;
+    justify-content: center;
+
+    flex-direction: column;
+    height: 100%;
+  }
