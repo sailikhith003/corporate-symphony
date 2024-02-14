@@ -42,3 +42,8 @@ Project Description : CorporateSymphony: Orchestrating Excellence in Corporate E
 - Completed the Dashboard for user and admin
 - Completed the landing page, about, contact
 - Completed the frontend
+#Dependencies needed to be installed
+-npm i
+-npm i axios
+-npm i react-router-dom
+-To run the project=npm run dev
